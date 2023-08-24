@@ -1,4 +1,4 @@
-5968
+5973
 118C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\caniuse-lite\data\features\word-break.js133373775894151692 0
 111C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\htmlnano\docs\docs\050-modules.md133373775875739394 0
 100C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\xxhash-wasm\LICENSE.md133373775865046982 0
@@ -38,7 +38,7 @@
 144C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\@parcel\optimizer-htmlnano\node_modules\mdn-data\css\syntaxes.json133373775869635843 0
 102C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\abortcontroller-polyfill133373775867069825 1
 146C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\css-select\node_modules\dom-serializer\lib\esm\foreignNames.d.ts.map133373775865056980 0
-69C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\dist133373795317391967 1
+69C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\dist133373834026560217 1
 109C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\@parcel\workers\src\cpuCount.js133373775866560009 0
 149C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\tokenizer\utils.js133373775879502117 0
 121C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\@parcel\reporter-cli\lib\CLIReporter.js.map133373775868919227 0
@@ -70,7 +70,7 @@
 102C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\nullthrows\nullthrows.js133373775860978532 0
 126C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\LICENSE133373775865804111 0
 123C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\caniuse-lite\data\features\iframe-seamless.js133373775885870932 0
-75C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\index.html133373778857640574 0
+75C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\index.html133373832729286885 0
 130C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\csso\node_modules\css-tree\cjs\lexer\match-graph.cjs133373775876698343 0
 109C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\caniuse-lite\data\regions\BS.js133373775877510548 0
 77C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules133373775909367733 1
@@ -78,9 +78,19 @@
 106C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\semver\functions\rcompare.js133373775872081081 0
 102C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\json5\dist\index.min.mjs133373775867436319 0
 105C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\semver\functions\compare.js133373775865159643 0
-75C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\scripts.js133373794976077849 0
+75C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\scripts.js133373831491205372 0
 126C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\csso\node_modules\css-tree\cjs\parser\create.cjs133373775869711032 0
 147C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\msgpackr-extract\node_modules\node-gyp-build-optional-packages\bin.js133373775859135955 0
+154C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\@parcel\source-map\parcel_sourcemap_node\artifacts\index.linux-x64-musl.node133373775877138197 0
+122C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\csso\node_modules\css-tree\lib\syntax\atrule133373775882372491 1
+98C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\htmlnano\lib\modules133373775871297923 1
+103C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\cosmiconfig\dist\types.js133373775866164355 0
+152C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\node\MediaQuery.js133373775877685757 0
+91C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\react-refresh133373775865618439 1
+100C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\@parcel\types\index.js133373775860958489 0
+132C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\react-refresh\cjs\react-refresh-runtime.development.js133373775862407463 0
+104C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\@parcel\utils\.eslintrc.js133373775861610066 0
+75C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\styles.css133373834026249710 0
 121C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\@parcel\core\test\fixtures\invalid-distpath133373775881435610 1
 97C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\parcel\package.json133373775864364839 0
 97C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\lmdb\dict\dict2.txt133373775879982158 0
@@ -158,9 +168,9 @@
 101C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\braces\lib\constants.js133373775863828730 0
 96C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\chrome-trace-event133373775863652781 1
 109C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\caniuse-lite\data\regions\BD.js133373775875335942 0
-89C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\htmlparser2133373775866530012 1
-122C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\@parcel\workers\lib\process\ProcessWorker.js133373775870412453 0
 96C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\@swc\core\bindings133373775868784051 1
+122C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\@parcel\workers\lib\process\ProcessWorker.js133373775870412453 0
+89C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\htmlparser2133373775866530012 1
 86C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\escalade133373775864424766 1
 120C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\css-tree\cjs\syntax\node\ClassSelector.cjs133373775867251167 0
 109C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\htmlnano\lib\presets\ampSafe.js133373775859536865 0
@@ -530,14 +540,6 @@
 125C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\@parcel\resolver-default\src\DefaultResolver.js133373775860507002 0
 108C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\type-fest\source\asyncify.d.ts133373775862217047 0
 97C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\react-error-overlay133373775865026968 1
-154C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\@parcel\source-map\parcel_sourcemap_node\artifacts\index.linux-x64-musl.node133373775877138197 0
-122C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\csso\node_modules\css-tree\lib\syntax\atrule133373775882372491 1
-98C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\htmlnano\lib\modules133373775871297923 1
-103C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\cosmiconfig\dist\types.js133373775866164355 0
-152C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\node\MediaQuery.js133373775877685757 0
-91C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\react-refresh133373775865618439 1
-100C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\@parcel\types\index.js133373775860958489 0
-132C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\react-refresh\cjs\react-refresh-runtime.development.js133373775862407463 0
 97C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\regenerator-runtime133373775861691425 1
 117C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\@parcel\transformer-babel\lib\config.js133373775864923792 0
 96C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\timsort\.npmignore133373775858319543 0
@@ -1299,7 +1301,6 @@
 130C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\@parcel\optimizer-image\parcel-image.darwin-x64.node133373775872997740 0
 116C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\caniuse-lite\data\features\template.js133373775892278961 0
 101C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\source-map\CHANGELOG.md133373775867466324 0
-101C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\js-yaml\lib\type\set.js133373775870582892 0
 95C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\srcset\index.d.ts133373775861691425 0
 93C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\srcset\index.js133373775858354737 0
 105C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\.bin\update-browserslist-db133373775895069119 0
@@ -1362,13 +1363,6 @@
 109C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\@parcel\core\test\test-utils.js133373775880412497 0
 105C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\@swc\helpers\src\_throw.mjs133373775887329551 0
 115C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\source-map\lib\source-map-consumer.js133373775866079285 0
-124C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\@parcel\core\test\fixtures\parcel\package.json133373775881783290 0
-108C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\css-tree\cjs\syntax\create.cjs133373775870287176 0
-117C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\css-tree\lib\syntax\node\Parentheses.js133373775882080325 0
-93C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\@parcel\watcher133373775863396771 1
-107C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\source-map\dist\source-map.js133373775869605833 0
-104C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\css-what\lib\es\types.d.ts133373775870247154 0
-140C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\posthtml\node_modules\posthtml-parser\dist\location-tracker.js133373775861264129 0
 151C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\lib\procedure.d.ts.map133373775869244935 0
 99C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\mdn-data\CHANGELOG.md133373775870894141 0
 107C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\css-select\lib\types.d.ts.map133373775875979883 0
@@ -1379,6 +1373,13 @@
 111C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\electron-to-chromium\package.json133373775866464820 0
 109C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\semver\ranges\max-satisfying.js133373775869866265 0
 95C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\picomatch\LICENSE133373775857337202 0
+104C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\css-what\lib\es\types.d.ts133373775870247154 0
+140C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\posthtml\node_modules\posthtml-parser\dist\location-tracker.js133373775861264129 0
+124C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\@parcel\core\test\fixtures\parcel\package.json133373775881783290 0
+108C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\css-tree\cjs\syntax\create.cjs133373775870287176 0
+117C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\css-tree\lib\syntax\node\Parentheses.js133373775882080325 0
+93C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\@parcel\watcher133373775863396771 1
+107C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\source-map\dist\source-map.js133373775869605833 0
 101C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\is-arrayish\.travis.yml133373775864249548 0
 98C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\msgpackr-extract\bin133373775861103756 1
 109C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\caniuse-lite\data\regions\QA.js133373775890770480 0
@@ -2272,7 +2273,7 @@
 118C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\@parcel\graph\test\AdjacencyList.test.js133373775863923891 0
 108C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\@parcel\utils\src\ansi-html.js133373775863482380 0
 133C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\sample-mdb.txt133373775880087465 0
-91C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\dist\index.b2335e0c.js.map133373795317371941 0
+91C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\dist\index.b2335e0c.js.map133373833557184461 0
 103C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\lines-and-columns\LICENSE133373775857317110 0
 105C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\lines-and-columns\README.md133373775861093765 0
 97C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\braces\package.json133373775857347240 0
@@ -2327,6 +2328,7 @@
 103C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\js-yaml\lib\type\pairs.js133373775869981504 0
 110C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\@swc\helpers\lib\_ts_metadata.js133373775882688016 0
 101C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\js-yaml\lib\type\seq.js133373775870392477 0
+101C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\js-yaml\lib\type\set.js133373775870582892 0
 107C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\entities\lib\encode-trie.d.ts133373775870026677 0
 101C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\js-yaml\lib\type\str.js133373775870975273 0
 109C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\caniuse-lite\data\regions\NF.js133373775889304168 0
@@ -2346,9 +2348,9 @@
 98C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\csso\cjs\restructure133373775872692090 1
 102C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\js-yaml\dist\js-yaml.mjs133373775872291523 0
 123C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\caniuse-lite\data\features\urlsearchparams.js133373775893095863 0
-100C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\js-yaml\bin\js-yaml.js133373775866965600 0
 95C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\@parcel\graph\lib133373775867999536 1
 113C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\css-tree\cjs\syntax\node\String.cjs133373775878784322 0
+100C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\js-yaml\bin\js-yaml.js133373775866965600 0
 100C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\js-tokens\CHANGELOG.md133373775858279547 0
 117C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\caniuse-lite\data\features\css-fixed.js133373775880442482 0
 95C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\js-tokens\LICENSE133373775860828021 0
@@ -2620,7 +2622,7 @@
 139C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\csso\node_modules\css-tree\lib\syntax\node\DeclarationList.js133373775880422481 0
 125C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\entities\lib\generated\decode-data-xml.d.ts.map133373775867757320 0
 135C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\css-select\node_modules\domhandler\lib\esm\index.d.ts.map133373775865200702 0
-80C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\dist\index.html133373785547597024 0
+80C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\dist\index.html133373833557724133 0
 119C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\entities\lib\generated\decode-data-xml.js133373775862377470 0
 129C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\css-select\node_modules\domhandler\lib\esm\index.js133373775859612119 0
 111C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\electron-to-chromium\CHANGELOG.md133373775867050692 0
@@ -4211,6 +4213,7 @@
 125C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\caniuse-lite\data\features\template-literals.js133373775892258950 0
 128C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\caniuse-lite\data\features\high-resolution-time.js133373775885559899 0
 113C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\caniuse-lite\data\features\http3.js133373775885755562 0
+92C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\dist\index.1303bb05.css.map133373834026545114 0
 128C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\@babel\highlight\node_modules\ansi-styles\index.js133373775859115942 0
 122C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\caniuse-lite\data\features\iframe-sandbox.js133373775885845674 0
 121C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\caniuse-lite\data\features\iframe-srcdoc.js133373775885890951 0
@@ -4508,6 +4511,7 @@
 117C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\@swc\helpers\_\_iterable_to_array_limit133373775884788068 1
 97C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\@swc\helpers\_\_jsx133373775884833307 1
 109C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\@swc\helpers\_\_new_arrow_check133373775884853299 1
+88C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\dist\index.1303bb05.css133373834026495235 0
 130C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\@swc\helpers\lib\_class_static_private_method_get.js133373775880290639 0
 111C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\@swc\helpers\_\_non_iterable_rest133373775884883331 1
 121C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\@swc\helpers\_\_possible_constructor_return133373775885033729 1
@@ -4849,7 +4853,6 @@
 116C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\@parcel\transformer-html\src\inline.js133373775864335576 0
 107C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\@parcel\watcher\index.js.flow133373775858945257 0
 101C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\@parcel\watcher\LICENSE133373775857452487 0
-104C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\@parcel\utils\.eslintrc.js133373775861610066 0
 95C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\@parcel\utils\lib133373775877600566 1
 99C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\@parcel\utils\LICENSE133373775859875716 0
 104C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\@parcel\utils\package.json133373775877550576 0
@@ -4883,7 +4886,7 @@
 107C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\@parcel\utils\src\debounce.js133373775867939534 0
 109C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\@parcel\utils\src\DefaultMap.js133373775868174042 0
 107C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\@parcel\utils\src\Deferred.js133373775868665196 0
-87C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\dist\index.b2335e0c.js133373795317296389 0
+87C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\dist\index.b2335e0c.js133373833557144519 0
 110C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\.bin\download-lmdb-prebuilds.ps1133373775895049138 0
 118C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\@parcel\utils\src\dependency-location.js133373775868889285 0
 118C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\@parcel\utils\src\generateCertificate.js133373775869645842 0
@@ -5967,3 +5970,5 @@
 91C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\.bin\svgo.cmd133373775895059151 0
 91C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\.bin\svgo.ps1133373775895059151 0
 109C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\node_modules\.bin\update-browserslist-db.cmd133373775895059151 0
+89C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\dist\styles.1303bb05.css133373832427765772 0
+93C:\Users\raven\Desktop\NucampFolder\WebDev\2-Javascript\news_app\dist\styles.1303bb05.css.map133373832427840775 0
